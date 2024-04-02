@@ -1,0 +1,72 @@
+{
+    "version": [
+      {
+        "id": 1,
+        "latestVersion": "1.2.0",
+        "minRequiredVersion": "1.1.0"
+      }
+    ],
+    "storeUrl": "https://appstore.com/iBox",
+    "url": [
+      {
+        "id": 0,
+        "default": [
+          {
+            "list" : [
+              {
+                "name": "42 Intra",
+                "url": "https://profile.intra.42.fr/"
+              }, {
+                "name": "집현전",
+                "url": "https://42library.kr/"
+              }, {
+                "name": "Where42",
+                "url": "https://www.where42.kr/"
+              }, {
+                "name": "42Stat",
+                "url": "https://stat.42seoul.kr/"
+              }, {
+                "name": "Get 912,000won!",
+                "url": "https://get6.github.io/get912000won/"
+              }, {
+                "name": "24HANE",
+                "url": "https://24hoursarenotenough.42seoul.kr/"
+              }
+            ]
+          }
+        ]      
+      }, 
+      {
+        "id": 1,
+        "remove": [
+          {
+            "list" : [
+              {
+                "url": "https://cabi.42seoul.io/"
+              }
+            ]
+          }
+        ],
+        "add": [
+          {
+            "list" : [
+              {
+                "name": "s42",
+                "url": "https://s42.app/"
+              }
+            ]
+              }
+        ],
+        "fix": [
+          {
+            "list" : [
+              {
+                "from": "https://profile.intra.42.fr/",
+                "to": "https://profile.intra.42.fr/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
