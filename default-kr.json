@@ -1,4 +1,53 @@
 {
     "favorite": "https://42box.github.io/iOSHowToUse/",
-    "lists": []
+    "list": [
+      {
+        "name": "42 Intra",
+        "url": "https://profile.intra.42.fr/"
+      },
+      {
+        "name": "집현전",
+        "url": "https://42library.kr/"
+      },
+      {
+        "name": "Where42",
+        "url": "https://www.where42.kr/"
+      },
+      {
+        "name": "42Stat",
+        "url": "https://stat.42seoul.kr/"
+      },
+      {
+        "name": "Get 912,000won!",
+        "url": "https://get6.github.io/get912000won/"
+      },
+      {
+        "name": "24HANE",
+        "url": "https://24hoursarenotenough.42seoul.kr/"
+      },
+      {
+        "name": "42PEER",
+        "url": "https://www.peer-study.co.kr/"
+      },
+      {
+          "name": "42서울 전자도서관",
+          "url": "https://42seoul.dkyobobook.co.kr/main.ink"
+      },
+      {
+          "name": "42gg",
+          "url": "https://gg.42seoul.kr/"
+      },
+      {
+          "name": "팔만코딩경",
+          "url": "https://80000coding.oopy.io/mobile"
+      },
+      {
+          "name": "공유우산",
+          "url": "https://openumbrella.site/login"
+      },
+      {
+          "name": "42Benefit",
+          "url": "https://benefit.42seoul.link/"
+      }
+    ]
 }
