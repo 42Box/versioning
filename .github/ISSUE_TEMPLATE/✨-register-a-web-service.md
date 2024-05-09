@@ -1,6 +1,6 @@
 ---
-name: Register a Web Service
-about: Register your web service or a web service you recommend.
+name: "✨ Register a Web Service"
+about: "✨ Register your web service or a web service you recommend."
 title: "✨ Feat: $WEBSERVICE_NAME"
 labels: ''
 assignees: chanhihi
