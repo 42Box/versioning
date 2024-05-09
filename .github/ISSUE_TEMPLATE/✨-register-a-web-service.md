@@ -9,7 +9,7 @@ assignees: chanhihi
 
 ## Category
 
-- ex) default-seoul
+- ex) default-kr
 
 ## $WEBSERVICE_NAME
 
