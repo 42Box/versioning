@@ -7,4 +7,20 @@ assignees: chanhihi
 
 ---
 
-(Free Form)
+## Overview
+
+- ex) URL이 변경되었습니다.
+- ex) URL이 삭제되었습니다. 이제는 없는 웹 서비스입니다.
+
+## Category
+
+- ex) default-kr
+
+## Webservice Name
+
+- ex) 42Box
+
+## URL
+
+- 변경 전 URL: https://42box.kr
+- 변경 후 URL: https://apps.apple.com/vn/app/42box/id6499335551
