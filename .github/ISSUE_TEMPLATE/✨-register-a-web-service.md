@@ -11,11 +11,11 @@ assignees: chanhihi
 
 - ex) default-kr
 
-## $WEBSERVICE_NAME
+## Webservice Name
 
 - ex) 42Box
 
-## $URL
+## URL
 
 - ex) https://apps.apple.com/vn/app/42box/id6499335551
 
