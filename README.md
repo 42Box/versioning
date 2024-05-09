@@ -1,8 +1,11 @@
 # 42Box data를 불러오기 위해서 사용되는 레포지토리입니다.
 
+### 📱 [iOS](https://github.com/42Box/iOS) 현재는 iOS버전에서 사용하고 있습니다. 
+### 🖥 [macOS](https://github.com/42Box/macOS)에서도 곧 사용 할 예정입니다.
+
 ### deafult.json
 
-- 폴더를 불러오기위해 사용합니다.
+- 폴더를 불러오기 위해 사용합니다.
   - ex) 42Seoul 
     ``` json
     {
