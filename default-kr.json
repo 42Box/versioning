@@ -52,6 +52,10 @@
     {
       "name": "42Benefit",
       "url": "https://benefit.42seoul.link/"
+    },
+    {
+      "name": "42Translation",
+      "url": "https://42translation.com/"
     }
   ]
 }
